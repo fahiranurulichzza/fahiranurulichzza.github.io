@@ -25,8 +25,3 @@ Managing a high-performance supply chain requires a precise understanding of the
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/GoogleColab-white?logo=GoogleColab)](#) [![](https://img.shields.io/badge/scikit_learn-white?logo=scikit-learn)](#)
 
 [View code on Google Colab](https://colab.research.google.com/drive/1dQs6cRTT2pEoLFd2IoDC5zj6CLjEmhsn#scrollTo=XUJD0gXnFfDJ)
-
-
---- -->
-
-
